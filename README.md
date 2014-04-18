@@ -10,8 +10,8 @@ Users can use the provided example script to check for the presence of any indiv
 
 To run, this script requires
 
-* Ruby installed on the host that runs the scripts.
-* Ruby gems: optparse, oauth2, rest-client, json
+* Ruby installed on the host that runs the script
+* Ruby gems: oauth2, rest-client, json
 * A read-only Halo API key/secret stored in a yaml file
 * The location of the yaml file set as a ENV variable
 
