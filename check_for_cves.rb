@@ -6,6 +6,7 @@ require 'optparse'
 require 'oauth2'
 require 'rest-client'
 require 'json'
+require 'yaml'
 
 # API helper class
 class API
