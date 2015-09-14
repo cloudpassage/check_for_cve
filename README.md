@@ -48,3 +48,7 @@ ip-10-10-254-13, 54.192.200.254, centos,6.2, cpio.x86_64, 2.10-11.el6_3, CVE-201
 ip-10-10-254-13, 54.192.200.254, centos,6.2, rsyslog.x86_64, 4.6.2-12.el6, CVE-2011-4623
 Checked 2 servers for CVE-2010-0624,CVE-2011-4623
 ```
+
+<!---
+#CPTAGS:community-unsupported audit
+-->
