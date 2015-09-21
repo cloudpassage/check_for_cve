@@ -51,4 +51,5 @@ Checked 2 servers for CVE-2010-0624,CVE-2011-4623
 
 <!---
 #CPTAGS:community-unsupported audit
+#TBICON:images/ruby_icon.png
 -->
